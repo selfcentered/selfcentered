@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning XML, XXE, etc
 - 📫 N/A
 
-[![HitCount](https://hits.dwyl.com/selfcentered/Readmemd.svg?style=flat-square)](http://hits.dwyl.com/selfcentered/Readmemd)
 
 <!---
 selfcentered/selfcentered is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
