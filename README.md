@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS, Pentesting, 0days
 - 🌱 I’m currently learning XML, XXE, etc
 - 📫 N/A
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pusr0zbnoxowwniyz14d063kz)
 
 <!---
 selfcentered/selfcentered is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
